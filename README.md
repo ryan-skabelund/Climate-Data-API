@@ -9,4 +9,4 @@ The last step was visualizing the data! So I used Jupyter to plot data in combin
 The ipynb file is uploaded in the repository, but for your convenience here is a link to view it:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ryan-skabelund/Climate-Data-API/main?labpath=ClimateData.ipynb)
-* Note that you will have to run the first cell, let both data tables load, and then run the second cell to see graphs.
+Note that you will have to run the first cell, let both data tables load, and then run the second cell to see graphs.
