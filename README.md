@@ -8,4 +8,4 @@ Then I created an ASP.NET web API hosted on Microsoft Azure to process temperatu
 The last step was visualizing the data! So I used Jupyter to plot data in combination with local weather data, making it easy to quickly analyze trends and patterns.
 The ipynb file is uploaded in the repository, but for your convenience here is a link to view it:
 
-https://nbviewer.org/github/ryan-skabelund/Climate-Data-API/blob/main/ClimateData.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ryan-skabelund/Climate-Data-API/main?labpath=ClimateData.ipynb)
